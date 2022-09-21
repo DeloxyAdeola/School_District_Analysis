@@ -8,7 +8,7 @@ iii. Analyszing the data
 These processes were carried out with all methods to make sure we have a clear analysis were taking into consideration, making sure the data was suitable for analysis.
 
 Analysis.
-This is a high school with grade 9,10,11,12. 
+These are  high schools with grade 9,10,11,12. 
 The Math_score average was 64.6 which may not be impressing compare to the to number of school. we could some factors may be responsible for this mean score which i believe the school board should look into. 
 minimum reading score is 10.5 which is also not impressing. 
 
