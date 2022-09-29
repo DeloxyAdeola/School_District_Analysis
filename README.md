@@ -1,4 +1,4 @@
-# School_District_Analysis-i
+# School_District_Analysis
 Analysis carried out for City school District. The overview of this project is to generate insight based on students funding/School budgets and the students test scores in maths and reading. 
 Analysis were carried out after some processes were carried out such as; 
 i. Collecting the data 
